@@ -1,6 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; /Users/zuck016/ptools-local/pgdbs/user/putidacyc/23.0/input/organism.dat
-;; generated automatically by PathoLogic v. 23.0
+;; /Users/zuck016/ptools-local/pgdbs/user/putidacyc/23.5/input/organism.dat
+;; generated automatically by PathoLogic v. 23.5
 ;;
 ;; Lines starting with ; are comment lines.  Each non-comment line should be of the form:
 ;; ATTRIBUTE	value
@@ -30,4 +30,4 @@ STORAGE	FILE
 NAME	Pseudomonas putida
 ABBREV-NAME	P. putida
 STRAIN	KT2440
-SEQUENCE-SOURCE	AE015451.2
+SEQUENCE-SOURCE	Engineered
